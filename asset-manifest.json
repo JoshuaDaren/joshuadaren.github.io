@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b65cbcbd.chunk.css",
+    "main.js": "/static/js/main.869ece67.chunk.js",
+    "main.js.map": "/static/js/main.869ece67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9fc31296.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9fc31296.js.map",
+    "static/css/2.2280284b.chunk.css": "/static/css/2.2280284b.chunk.css",
+    "static/js/2.b6cd4d93.chunk.js": "/static/js/2.b6cd4d93.chunk.js",
+    "static/js/2.b6cd4d93.chunk.js.map": "/static/js/2.b6cd4d93.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2280284b.chunk.css.map": "/static/css/2.2280284b.chunk.css.map",
+    "static/css/main.b65cbcbd.chunk.css.map": "/static/css/main.b65cbcbd.chunk.css.map",
+    "static/js/2.b6cd4d93.chunk.js.LICENSE.txt": "/static/js/2.b6cd4d93.chunk.js.LICENSE.txt",
+    "static/media/blockchain.cf447850.jpg": "/static/media/blockchain.cf447850.jpg",
+    "static/media/building.6174b682.jpg": "/static/media/building.6174b682.jpg",
+    "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
+    "static/media/ecommerce.78103795.jpg": "/static/media/ecommerce.78103795.jpg",
+    "static/media/joshua.8a1b49a1.png": "/static/media/joshua.8a1b49a1.png",
+    "static/media/produce.132bc09e.jpg": "/static/media/produce.132bc09e.jpg",
+    "static/media/resource.c13bf4ac.JPG": "/static/media/resource.c13bf4ac.JPG",
+    "static/media/service.eb7f47f5.jpg": "/static/media/service.eb7f47f5.jpg",
+    "static/media/whistler.247333a1.jpg": "/static/media/whistler.247333a1.jpg",
+    "static/media/wrenbury.7ee241d1.jpg": "/static/media/wrenbury.7ee241d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fc31296.js",
+    "static/css/2.2280284b.chunk.css",
+    "static/js/2.b6cd4d93.chunk.js",
+    "static/css/main.b65cbcbd.chunk.css",
+    "static/js/main.869ece67.chunk.js"
+  ]
+}
